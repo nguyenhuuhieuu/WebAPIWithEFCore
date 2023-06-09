@@ -1,0 +1,156 @@
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\appsettings.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.exe
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.deps.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.runtimeconfig.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.pdb
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.AssemblyInfoInputs.cache
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.AssemblyInfo.cs
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIwithEFCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIwithEFCore.props
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIwithEFCore.props
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIwithEFCore.props
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\scopedcss\bundle\WebAPIwithEFCore.styles.css
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.csproj.CopyComplete
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\refint\WebAPIwithEFCore.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.pdb
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.genruntimeconfig.cache
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\ref\WebAPIwithEFCore.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Nguyen Huu Hieu\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\appsettings.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.exe
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.deps.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.runtimeconfig.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\WebAPIwithEFCore.pdb
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.AssemblyInfoInputs.cache
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.AssemblyInfo.cs
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIwithEFCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIwithEFCore.props
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIwithEFCore.props
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIwithEFCore.props
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\scopedcss\bundle\WebAPIwithEFCore.styles.css
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.csproj.CopyComplete
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\refint\WebAPIwithEFCore.dll
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.pdb
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\WebAPIwithEFCore.genruntimeconfig.cache
+C:\Users\aaa\source\repos\WebAPIwithEFCore\WebAPIwithEFCore\obj\Debug\net7.0\ref\WebAPIwithEFCore.dll
